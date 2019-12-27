@@ -11,7 +11,7 @@ npm install ido-image-loader
 
 ## 使用
 
-### lazyload懒加载使用
+### 1、lazyload懒加载使用
 
 1. 将图片src替换为data-src，src上放置placeholder占位图
 
@@ -56,7 +56,7 @@ npm install ido-image-loader
 
 
 
-### preload预加载使用示例
+### 2、preload预加载使用示例
 
 1. 准备预加载图片的列表
 
